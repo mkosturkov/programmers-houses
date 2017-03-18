@@ -1,0 +1,107 @@
+IF PROGRAMMERS WERE BUILDING HOUSES
+
+1.03. Hurray! We got a huge contract for building a twelve story building. We are all very enthusiastic about it. We celebrated with 4 dozens of beer.
+
+2.03. The client didn't like the 'whenever we're ready' deadline we proposed. He wants us to dedicate to a date. The retard doesn't get high-tech at all.
+
+3.03. We were discussing the deadline. We had about 6 dozens of beers during the meeting. Peter said we'd be done in 4 months. That means at least 8. We wrote 12 in the contract, but I don't see things happening for less than 16.
+
+6.03. Peter went to the store to return the bottles.
+
+8.03. We are celebrating the 8th of March. There are no women in the company, so there's nobody around to spoil the celebration.
+
+2.04. Peter said we should start working. I don't what's wrong with the guy. We cleaned up the construction site and put up a beautiful sign saying "The construction is conducted by "Allbuild LTD (www.allbuild.com)". Feeling contempt for the good work we are playing Counter-Strike.
+
+20.04. The client stopped by to supervise the progress of the project. We assigned him to a team on Counter-Strike and let him win all the rounds.
+
+21.04. We've been discussing the project. Johnson proposed enterprise panel architecture. Peter insisted on doing things the 'right' way using bricks and not do it the way lamers would. Alex had the most hipsterish idea. He proposed to follow the latest trend and build a couple of dozens of wooden cabins and connect them with underground tunnels. We reminded him that after all, the client wanted a 12 story building. We tried settling the argument by Counter-Strike rounds. Alex and his wooden cabins were out of the game pretty soon, but Johnson and Peter were tied for the win. We decided that each one could build according to his architecture and that we would connect the parts afterwards so the building wouldn't fall apart.
+
+30.04. The first floor is all done. We showed it to the client. He asked why the ceiling in different rooms had different height, why the walls were falling down and why there was no door and one had to enter through the window. We explained that those were limitations due to the demo-stage of the project. Proud of ourselves, we are celebrating.
+
+10.05. Peter sobered-up first and cursed for a long time. We thought it was because Alex had drank all the beer and hadn’t left any for the team but it was worse. Turned out we had forgotten to do the foundations. They were described in the documentation, but only idiots the docs.
+
+11.05. We destroyed the first floor. This is highly insulting.
+
+11.07. We are working. Peter is finalizing the second floor, Johnson - the fifth. Alex did the elevator shaft up to the ninth floor but it is not stable when the wind is strong. We built a temporary wooden scaffold to support it.
+
+17.07. Alex is building the terraces and the roof. He's doing it on the ground. We are going to elevate them with a crane afterwards.
+
+13.08. Johnson's panels do not fit well together. There's almost a meter of empty space between them. Johnson asked Peter for help, but Peter said that he had a lot of work himself. Also, he couldn't really help him anyway without any knowledge of the panel's internal architecture.
+
+14.08. We broke down a couple of panels so Peter could study their internal architecture. He cursed and said that the panels' architects were total idiots.
+
+17.08. Peter managed to fill the hole. The panels got a little curved but this is just a minor detail. There were some little holes left between them, but Peter got them isolated with some duct-tape. 
+
+1.09. The construction factory released a new version of their panels. They have higher durability, increased strength and come with wall mounted cupboards out of the box. Truth be told, their shape and size are not backwards compatible with the previous version and are three times as heavy.
+
+16.09. Alex was full of ideas today. He proposed making all the windows in the building have different sizes. He said the client would like that. With told him not to fuck with us.
+
+2.10. Peter completed the fifth floor. He is proud of himself. We noticed that the walls form a 40 degrees angle. He swore, shouted and said we were idiots who know nothing. Then he promised to review his work. 
+
+3.10. The client stopped by. He asked why the walls were forming a 40 degrees angle. We told him about Coriolis force. He listened carefully and said that he doesn't know much about construction work, but that right next to his house there was a building exactly like the one he wanted and that all the walls in it formed 90 degrees angles. Than the retarded Alex talked to him and told him about the change in the windows he was planning. The client, of course, liked the idea. Shit!
+
+4.10. We asked Alex if we were going to have to destroy everything because of his windows. He assured us that this wouldn't be necessary, because in the standard panels there was an undocumented function.
+
+5.10. Peter acknowledged there was a problem with the walls. He said he misplaced a brick, but in order to find out which one he had to check them all. He said it'd be easier to start over.
+
+6.10. We tried to convince Peter that he wouldn't have enough time to start over. We even did calculations. Peter swore a lot, shouted and said that calculations had been invented by idiots. Then he agreed to do everything with panels and went out to get drunk.
+
+8.10. We broke down the brick part. We damaged some of the panels part too. The whole building creaks and is tilting. We used wooden supports to stabilize it and we played a game of Counter-Strike.
+
+17.10. Peter came back from drinking. We are working.
+
+7.11. We are celebrating the 7th of November or whatever it's called now. There are no communists in the company so there is nobody to spoil the celebration.
+
+15.11. We realized that our crane could only reach the 8th floor. We sent Johnson to get a new one. We are playing Counter-Strike. Alex won more games than Peter. A new shift is on the rise.
+
+24.11. Johnson came back. He didn't manage to find a crane but he got us an excavator. He suggested we dig a deep shaft and build the building starting from the top rather than the bottom. He said that the contract doesn't mention if the building should to be above the ground.
+
+
+25.11. We brainstormed the problem with the crane. While drinking the last bottle of beer we managed to find a solution. Fuck traditional building! We are going to build a 4 story building and then put the crane on its roof.
+
+25.12. We are celebrating the Catholic Christmas. There are no catholics in the company, so there is nobody to spoil the celebration.
+
+14.01. I can't remember a thing. My head aches. Which year is it?
+
+2.02. We are finally ready with the 12th floor. Tomorrow we are installing the roof that Alex built.
+
+3.02. Alex is an idiot. The roof is regularly falling down. For now we use the crane to support it. We'll think about the problem later.
+
+4.02. Alex said it was not his fault the roof was falling down. According to him the problem was that the 12th floor that Johnson built was 5 meters wider and 4 meter higher than the one Peter built. We realized they were using different panels. But Alex is still and idiot because his roof is not compatible with either of the 12th floors. Neither is it with the elevator shaft.
+
+5.02. We glued and fixed the roof. Peter said it will be fine unless it starts snowing.
+
+7.02. It started snowing...
+
+10.02. We made a roof out of plywood and tin and painted it. Let's hope the client won't notice.
+
+11.02. We did some testing on the elevator. It stops between the floors but one can still get out of the cabin. On even floors with crawling and on odd ones with jumping. I must not forget to add this to the documentation.
+
+12.02. The elevator is working super slow. Peter swore and called everyone an idiot. He said he's going to optimize it.
+
+13.02. Peter optimized the elevator. It went off too fast, broke a hole in the roof and flew off in an unknown direction. Good thing the roof is made out of plywood and is easy to fix. Also, the elevator shaft fell down. We realized we never replaced the wooden support with something more reliable. Nevermind. Walking the stairs is a healthy thing to do.
+
+15.02. We started the final works. The carpenters are constantly dissapearing somewhere. We called to send more.
+
+17.02. It became clear that because of a bug that introduced by Johnson, the doors of the apartments on floors 2 to 6 can be only opened from the outside. This resulted in that those floors are now filled with stuck carpenters who can not get out. Johnson promised to fix this. For now we are feeding the carpenters through the ventilation shafts.
+
+20.02. Alex finally completed the transforming windows. We tested them. Upon size change the glass breaks. There were also some other side effects. For example, one could enter the bathroom and toilette of one apartment from the living room of another. Also the doors are constantly dissapearing and the balconies are falling off. It's useless to raise an issue at the construction factory - they'll just say that they do not provide support for undocumented functionality.
+
+
+21.02. The client stopped by. He asked if we could do some minor changes to the project. More precisely, instead of building a 12 story building, make a couple of dozens of wooden cabins and connect them with underground tunnels. He read that this is the latest trend in construction. We neutralized Alex before he could open his mouth and politely but firmly explained to the client that he's not right.
+
+22.02. The balconies continue falling off, although we are not touching the windows. I guess it's a standalone bug. It's too late to figure out exactly what the problem is, so we just removed them. We'll try to tell the client that we did that for optimization purposes.
+
+23.02. We are celebrating the 23rd of February. There are no military in the company so there is nobody to spoil the celebration.
+
+25.02. Alex tried to finalize the changing windows. The result was that half of them shrunk to zero size and won't get restored. We told him to stop fucking around because the situation would get worse otherwise.
+
+27.02. We realized we forgot to build an entrance. We are trying to figure out if the building will fall if we do it now. Johnson said it'd be better not to risk it. Peter called him an idiot and agreed. I must not forget to describe entering the building from a window as a feature in the documentation.
+
+1.03. What do you mean it's the 1st of March??? How?? Yesterday was like... Shit! Who would know that February has only 28 days. It turns out we have to be done the day after tomorrow and not next week.
+
+2.03. We are working hard. Around the clock.
+
+3.03. We managed to convince the client that we need another day for final tests. Mhm, it was a hard working day, yesterday... At the end of the day, the situation is not that bad. Some of the doors are on the floor, others on the ceiling or they get you straight on the street from the 10th floor, some of the apartments are impossible to reach, in others the toilette is in the kitchen, half of them don't have watter, the other - electricity, the sewage drains on the 6th floor and we had to make the stairs from the 8th to the 9th floor out of rope, but this are all just minor defects. The important thing is to demonstrate the building to the client following the correct route. Oh, yes... We also have to put some pictures on the places the windows dissapeared...
+
+4.03. Yes! Yes! We did it! We delivered the project! I am drinking, but just a little bit. I must get out of here before everything goes to hell...
